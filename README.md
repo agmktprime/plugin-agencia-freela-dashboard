@@ -1,1 +1,0 @@
-# plugin-agencia-freela-dashboard
